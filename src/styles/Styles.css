@@ -1,0 +1,57 @@
+body {
+  background-color: #012A36!important;
+}
+
+h1, h2 {
+  color: rgb(255, 255, 255)!important;
+  margin-left: 3%!important;
+}
+
+h1 {
+  font-family: 'Play', sans-serif!important;
+  font-size: 4em!important;
+}
+
+h2 {
+  font-family: 'Big Shoulders Display', cursive;
+}
+
+a, h4 {
+  font-family: 'Play', sans-serif!important;
+  }
+
+.jumbo {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  padding: 3%!important;
+  background-color: #3C7A89!important;
+}
+
+.links {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+}
+
+.links:hover {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
+  
+  .title {
+    background-color: #2E4756!important;
+    color: rgb(255, 255, 255);
+  }
+  
+  .button {
+    background-color: #2E4756!important;
+    border: #2B193D!important;
+  }
+  
+  .button:hover {
+    background-color: #16262E!important;
+    
+}.card {
+ margin-left: 8%!important;
+ margin-right: 8%!important;
+}
